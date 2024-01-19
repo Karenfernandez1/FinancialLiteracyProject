@@ -32,8 +32,7 @@ Here are a few facts by Investopedia survey
 
 "[...] 74% said they are at least somewhat stressed about managing their finances."
 
-There are plenty of investing options, but for one of the main indexes in America, is the S&P500, which is componed by top 500 publicly traded companies.
-According to Investopedia, from 1957 to 2023 the S&P500 has had an average return of 10.26%.
+Numerous investment opportunities abound, and among the prominent choices is the S&P 500, a key American index comprised of the top 500 publicly traded companies. As reported by Investopedia, spanning the years from 1957 to 2023, the S&P 500 has demonstrated a commendable average return of 10.26%
 
 ### Analysis
 What is an ETF?
