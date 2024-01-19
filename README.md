@@ -51,6 +51,7 @@ It is crucial to acknowledge that the ROI varies, as this percentage has fluctua
 
 Compound interest is akin to a snowball that, once formed, can only grow bigger and bigger. The Merriam-Webster website defines it as "noun: interest computed on the sum of an original principal and accrued interest," essentially, interest on interest.
 
+#### Compound Interest Magic: A $10,000 Investment Journey
 
 As an illustration, let's contemplate a $10,000 investment made in 1992 without any additional contributions. If we had purchased the S&P 500 and held onto it until 2022, that initial $10,000 would have grown to approximately $170,475. This remarkable growth is attributed to the power of compound interest.
 
