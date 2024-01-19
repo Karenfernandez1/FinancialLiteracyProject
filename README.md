@@ -16,6 +16,7 @@ This data analysis aims to provide insights into the financial literacy of Mille
   - [link](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp)
 - NASDAQ - [link](https://www.nasdaq.com/articles/social-security-benefits:-the-impact-of-delayed-retirement-on-millennials)
 - Vanguard - [link](https://investor.vanguard.com/investment-products/etfs)
+- Merriam Webster - [link](https://www.merriam-webster.com/dictionary/compound%20interest)
 
 ### Tools
 - Excel
