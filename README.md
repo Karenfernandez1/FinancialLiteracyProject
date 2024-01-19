@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Introduction](#introduction)
 - [Analysis](#analysis)
-- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 This data analysis aims to provide insights into the financial literacy of Millennials, long-term investing options, and the overall performance of the S&P500. By analyzing various statistics in regards to financial literacy, we seek to identify potential options to gain a deeper understanding on how to start investing.
@@ -38,5 +38,5 @@ Numerous investment opportunities abound, and among the prominent choices is the
 What is an ETF?
 An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange. (Vanguard)
 
-### Recommendations
-After collecting some facts, we recommend Millenials do their own due diligence and get educated on Individual Retirement Account (IRA) types and also perform research on the types of exchange-traded fund (ETFs) that are available for investment in the IRA
+### Conclusion
+After collecting some facts, I would recommend consulting with a professional and doing your own due diligence. Moreover, the S&P500 provides a diversified exposure to some of the most influential companies in the market, offering potential for substantial returns. 
