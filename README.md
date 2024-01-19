@@ -32,11 +32,12 @@ Here are a few facts by Investopedia survey
 
 "[...] 74% said they are at least somewhat stressed about managing their finances."
 
-Numerous investment opportunities abound, and among the prominent choices is the S&P 500, a key American index comprised of the top 500 publicly traded companies. As reported by Investopedia, spanning the years from 1957 to 2023, the S&P 500 has demonstrated a commendable average return of 10.26%
 
 ### Analysis
 What is an ETF?
 An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange. (Vanguard)
+
+Numerous investment opportunities abound, and among the prominent choices is the S&P 500, a key American index comprised of the top 500 publicly traded companies. As reported by Investopedia, spanning the years from 1957 to 2023, the S&P 500 has demonstrated a commendable average return of 10.26%
 
 ### Conclusion
 The S&P 500 provides diversified exposure to some of the most influential companies in the market, offering the potential for substantial returns. Of course, it's essential to conduct research and consider your individual financial goals and risk tolerance before making any investment decisions.
