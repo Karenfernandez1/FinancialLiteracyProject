@@ -35,7 +35,7 @@ Retirement doesn't have to depend solely on Social Security, especially consider
 ### Analysis
 
 #### What is an ETF?
-An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange (Vanguard). You can think of it as a basquet of stocks.
+An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange (Vanguard). You can think of it as a basket of stocks.
 
 There are plenty of types of ETFs, such as equity, bond, commodities, sector ETFs, etc.
 
