@@ -33,7 +33,8 @@ According to a 2022 report by HealthView Services, almost half Millennials expre
 Retirement doesn't have to depend solely on Social Security, especially considering that financial education is a personal responsibility. Consequently, we can explore alternative tools for long-term investment that contribute to our retirement plans. To keep things straightforward, our focus will be exclusively on investing in an S&P 500 ETF.
 
 ### Analysis
-What is an ETF?
+
+#### What is an ETF?
 An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange (Vanguard). You can think of it as a basquet of stocks.
 
 There are plenty of types of ETFs, such as equity, bond, commodities, sector ETFs, etc.
@@ -43,6 +44,12 @@ For this analysis, our focus will be on S&P 500 ETFs, representing a pivotal Ame
 It is crucial to acknowledge that the ROI varies, as this percentage has fluctuated in certain years as shown on the graph below:
 
 <div class='tableauPlaceholder' id='viz1705699200245' style='position: relative'><noscript><a href='#'><img alt='S&amp;P500 Historical Returns (1992-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SP&#47;SP500HistoricalReturns&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SP500HistoricalReturns&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SP&#47;SP500HistoricalReturns&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>          
+
+#### The Power of Compound Interest
+
+“Compound interest is the eighth wonder of the world. He who understands it, earns it... he who doesn't... pays it.” ― Albert Einstein.
+
+Compound interest is akin to a snowball that, once formed, can only grow bigger and bigger. The Merriam-Webster website defines it as "noun: interest computed on the sum of an original principal and accrued interest," essentially, interest on interest.
 
 
 As an illustration, let's contemplate a $10,000 investment made in 1992 without any additional contributions. If we had purchased the S&P 500 and held onto it until 2022, that initial $10,000 would have grown to approximately $170,475. This remarkable growth is attributed to the power of compound interest.
