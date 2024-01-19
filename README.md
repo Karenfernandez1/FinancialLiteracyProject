@@ -11,7 +11,9 @@
 This data analysis aims to provide insights into the financial literacy of Millennials, long-term investing options, and the overall performance of the S&P500. By analyzing various statistics in regards to financial literacy, we seek to identify potential options to gain a deeper understanding on how to start investing.
 
 ### Data Sources
-- Investopedia - [link](https://www.investopedia.com/millennials-are-financially-confident-but-stressed-5224413#:~:text=No%20fewer%20than%2061%25%20of,stressed%20about%20managing%20their%20finances.), (https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp)
+- Investopedia -
+  - [link](https://www.investopedia.com/millennials-are-financially-confident-but-stressed-5224413#:~:text=No%20fewer%20than%2061%25%20of,stressed%20about%20managing%20their%20finances.)
+  - [link](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp)
 - NASDAQ - [link](https://www.nasdaq.com/articles/social-security-benefits:-the-impact-of-delayed-retirement-on-millennials)
 - Vanguard - [link](https://investor.vanguard.com/investment-products/etfs)
 
