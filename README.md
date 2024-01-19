@@ -39,9 +39,12 @@ An ETF is a collection of hundreds or thousands of stocks or bonds, managed by e
 
 There are plenty of types of ETFs, such as equity, bond, commodities, sector ETFs, etc.
 
-For this analysis, our focus will be on S&P 500 ETFs, representing a pivotal American index composed of the top 500 publicly traded companies. According to Investopedia's report covering the years from 1957 to 2023, the S&P 500 has showcased a commendable average return of 10.26%.
+#### Analysis of S&P 500 Historical Returns (1957-2023) and Variability in Annual ROI
 
-It is crucial to acknowledge that the ROI varies, as this percentage has fluctuated in certain years as shown on the graph below:
+The S&P500 represents a pivotal American index composed of the top 500 publicly traded companies. According to Investopedia's report covering the years from 1957 to 2023, the S&P 500 has showcased a commendable average return of 10.26%.
+
+It is crucial to acknowledge that the ROI varies, as this percentage has fluctuated in certain years, as illustrated in the graph below:
+
 
 <div class='tableauPlaceholder' id='viz1705699200245' style='position: relative'><noscript><a href='#'><img alt='S&amp;P500 Historical Returns (1992-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SP&#47;SP500HistoricalReturns&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SP500HistoricalReturns&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SP&#47;SP500HistoricalReturns&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>          
 
