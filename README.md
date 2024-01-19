@@ -1,4 +1,4 @@
-# Millennials' Financial Literacy Analysis
+# Decoding Millennials' Finances: A Comprehensive Analysis
 
 ### Table of Contents
 - [Project Overview](#project-overview)
