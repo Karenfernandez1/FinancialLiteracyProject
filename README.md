@@ -19,7 +19,6 @@ This data analysis aims to provide insights into the financial literacy of Mille
 
 ### Tools
 - Excel
-- SQL Server | Data Analysis
 - Tableau
 
 ### Introduction
