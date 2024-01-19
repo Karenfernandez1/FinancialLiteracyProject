@@ -39,4 +39,6 @@ What is an ETF?
 An ETF is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund that trades on major stock exchanges, like the New York Stock Exchange, Nasdaq, and Chicago Board Options Exchange. (Vanguard)
 
 ### Conclusion
-After collecting some facts, I would recommend consulting with a professional and doing your own due diligence. Moreover, the S&P500 provides a diversified exposure to some of the most influential companies in the market, offering potential for substantial returns. 
+The S&P 500 provides diversified exposure to some of the most influential companies in the market, offering the potential for substantial returns. Of course, it's essential to conduct research and consider your individual financial goals and risk tolerance before making any investment decisions.
+
+Disclaimer: This analysis does not intend to recommend or guarantee any returns. Please always do your own due diligence and consult with a professional.
