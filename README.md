@@ -1,4 +1,4 @@
-# Millennials Financial Literacy Analysis
+# Millennials' Financial Literacy Analysis
 
 ### Table of Contents
 - [Project Overview](#project-overview)
@@ -29,6 +29,9 @@ According to a 2022 report by HealthView Services, almost half Millennials expre
 Here are a few facts by Investopedia survey
 
 "[...] 74% said they are at least somewhat stressed about managing their finances."
+
+There are plenty of investing options, but for one of th emain indexes in America, is the S&P500, which is componed by top 500 publicly traded companies.
+In the past the S&P500 has had an average return of 
 
 ### Analysis
 What is an ETF?
